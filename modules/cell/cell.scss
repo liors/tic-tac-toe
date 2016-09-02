@@ -1,0 +1,16 @@
+.cell {
+    width: 96px;
+    height: 62px;
+    border: 1px solid;
+    border-color: #555;
+    line-height: 62px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    transition: background-color 0.7s ease-out;
+    flex-direction: row;
+}
+
+.play {
+    font-size: 40px;
+    color: #424242;
+}
