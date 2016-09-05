@@ -1,6 +1,4 @@
 import React from 'react'
-import { colors } from '../../utils/colors'
-import _ from 'lodash'
 import './cell.scss'
 
 export default class Cell extends React.Component {
